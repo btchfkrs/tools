@@ -21,6 +21,7 @@ The purpose of this repository is to provide a centralized location for utilitie
 ## Available Tools
 Below is a list of tools currently included in this repository (to be updated as new tools are added):
 
+- **SMPP Checker** (e.g., `smpp-checker`): A brief description of the tool, such as "A utility for testing SMPP protocol connectivity and message delivery."
 - (Will extend list with more tools as they added to the repository)
 
 ## Getting Started
