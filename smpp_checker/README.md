@@ -1,5 +1,5 @@
 # SMPP Connectivity Check (PHP)
-
+### Version: 1.0
 A minimal standalone PHP CLI tool to verify **SMPP connectivity** and **bind status** against an SMSC.  
 Useful for troubleshooting when software like Kannel is stuck in a reconnecting loop and you want to test the bind directly.
 
@@ -85,3 +85,10 @@ or
 
 ## License
 GNU General Public License v2.0
+
+---
+
+## Versioning
+- 1.0 Base version tested
+
+---
